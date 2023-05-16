@@ -16,3 +16,8 @@ To understand how to use this program, follow these steps:
 2. After selecting the option 1, you can enter the item that you want one by one and this will display the running total.
 3. You can select the other options as well in the menu such as the option 2 to remove an item.
 4. And to finish the program you can choose option 3 in the menu which will break the loop and return the final total of the items you selected.
+
+# Attached Project Report
+A report of the project is attached in the repository, it has more information about the information and decisions that I have made while working in this program.
+Feel free to check the report to understand better the program.
+
