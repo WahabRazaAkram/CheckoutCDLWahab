@@ -1,4 +1,4 @@
-# Supermarket Checkout System
+# CDL Checkout System
 This project implements a supermarket checkout system that handles pricing schemes based on individual prices and special offers.
 It allows the calculation of the total price by using letters of the alphabet (A, B, C or D)
 # Pricing Rules
